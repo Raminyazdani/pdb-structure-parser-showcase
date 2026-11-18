@@ -1,0 +1,5 @@
+REMARK 900 FICTIONAL CARTESIAN POINTS FOR A GEOMETRY EXERCISE
+ATOM     17  C1  LAB A   1      -2.125  -0.875   1.250  1.00  0.00           C
+ATOM     29  O1  LAB A   1      -0.500  -4.250  -1.750  1.00  0.00           O
+HETATM   83 ZN    ZN B   2       0.875   3.125  13.250  1.00  0.00          ZN
+END
